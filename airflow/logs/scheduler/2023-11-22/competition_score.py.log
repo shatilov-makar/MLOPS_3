@@ -1,0 +1,2147 @@
+[2023-11-22T15:27:07.375+0500] {processor.py:157} INFO - Started process (PID=9893) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:27:07.377+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:27:07.380+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:27:07.379+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:27:07.438+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:27:07.943+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:27:07.942+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:27:08.036+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:27:08.035+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T00:00:00+00:00, run_after=2023-11-21T01:00:00+00:00
+[2023-11-22T15:27:08.117+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.753 seconds
+[2023-11-22T15:27:39.003+0500] {processor.py:157} INFO - Started process (PID=10028) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:27:39.008+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:27:39.011+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:27:39.010+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:27:39.048+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:27:39.167+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:27:39.167+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:27:39.311+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:27:39.310+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T01:00:00+00:00, run_after=2023-11-21T02:00:00+00:00
+[2023-11-22T15:27:39.389+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.399 seconds
+[2023-11-22T15:28:09.496+0500] {processor.py:157} INFO - Started process (PID=10145) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:28:09.498+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:28:09.501+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:28:09.500+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:28:09.536+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:28:09.626+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:28:09.625+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:28:09.723+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:28:09.722+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T01:00:00+00:00, run_after=2023-11-21T02:00:00+00:00
+[2023-11-22T15:28:09.793+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.314 seconds
+[2023-11-22T15:28:40.748+0500] {processor.py:157} INFO - Started process (PID=10281) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:28:40.753+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:28:40.756+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:28:40.755+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:28:40.813+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:28:40.957+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:28:40.956+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:28:41.184+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:28:41.183+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T02:00:00+00:00, run_after=2023-11-21T03:00:00+00:00
+[2023-11-22T15:28:41.310+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.592 seconds
+[2023-11-22T15:29:12.199+0500] {processor.py:157} INFO - Started process (PID=10396) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:29:12.205+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:29:12.208+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:29:12.207+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:29:12.247+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:29:12.347+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:29:12.346+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:29:12.459+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:29:12.458+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T02:00:00+00:00, run_after=2023-11-21T03:00:00+00:00
+[2023-11-22T15:29:12.551+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.367 seconds
+[2023-11-22T15:29:43.104+0500] {processor.py:157} INFO - Started process (PID=10550) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:29:43.114+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:29:43.125+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:29:43.124+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:29:43.179+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:29:43.297+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:29:43.296+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:29:43.454+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:29:43.453+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T02:00:00+00:00, run_after=2023-11-21T03:00:00+00:00
+[2023-11-22T15:29:43.555+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.492 seconds
+[2023-11-22T15:30:14.401+0500] {processor.py:157} INFO - Started process (PID=10933) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:30:14.404+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:30:14.407+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:30:14.406+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:30:14.444+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:30:14.544+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:30:14.543+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:30:14.659+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:30:14.658+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T03:00:00+00:00, run_after=2023-11-21T04:00:00+00:00
+[2023-11-22T15:30:14.733+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.350 seconds
+[2023-11-22T15:30:45.244+0500] {processor.py:157} INFO - Started process (PID=11134) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:30:45.251+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:30:45.257+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:30:45.253+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:30:45.349+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:30:45.518+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:30:45.517+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:30:45.630+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:30:45.629+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T03:00:00+00:00, run_after=2023-11-21T04:00:00+00:00
+[2023-11-22T15:30:45.722+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.518 seconds
+[2023-11-22T15:31:16.121+0500] {processor.py:157} INFO - Started process (PID=11287) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:31:16.124+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:31:16.127+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:31:16.126+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:31:16.183+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:31:16.289+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:31:16.288+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:31:16.409+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:31:16.408+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T04:00:00+00:00, run_after=2023-11-21T05:00:00+00:00
+[2023-11-22T15:31:16.512+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.403 seconds
+[2023-11-22T15:31:47.496+0500] {processor.py:157} INFO - Started process (PID=11432) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:31:47.499+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:31:47.503+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:31:47.501+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:31:47.547+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:31:47.652+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:31:47.651+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:31:47.774+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:31:47.773+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T05:00:00+00:00, run_after=2023-11-21T06:00:00+00:00
+[2023-11-22T15:31:47.869+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.388 seconds
+[2023-11-22T15:32:18.828+0500] {processor.py:157} INFO - Started process (PID=11615) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:32:18.831+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:32:18.834+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:32:18.833+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:32:18.883+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:32:18.983+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:32:18.982+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:32:19.085+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:32:19.085+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T05:00:00+00:00, run_after=2023-11-21T06:00:00+00:00
+[2023-11-22T15:32:19.173+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.356 seconds
+[2023-11-22T15:32:50.194+0500] {processor.py:157} INFO - Started process (PID=11753) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:32:50.197+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:32:50.200+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:32:50.199+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:32:50.268+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:32:50.401+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:32:50.400+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:32:50.550+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:32:50.550+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T06:00:00+00:00, run_after=2023-11-21T07:00:00+00:00
+[2023-11-22T15:32:50.627+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.459 seconds
+[2023-11-22T15:33:21.043+0500] {processor.py:157} INFO - Started process (PID=11917) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:33:21.046+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:33:21.049+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:33:21.048+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:33:21.091+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:33:21.212+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:33:21.211+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:33:21.352+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:33:21.351+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T06:00:00+00:00, run_after=2023-11-21T07:00:00+00:00
+[2023-11-22T15:33:21.452+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.423 seconds
+[2023-11-22T15:33:51.548+0500] {processor.py:157} INFO - Started process (PID=12056) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:33:51.551+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:33:51.554+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:33:51.553+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:33:51.591+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:33:51.703+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:33:51.702+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:33:51.825+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:33:51.823+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T06:00:00+00:00, run_after=2023-11-21T07:00:00+00:00
+[2023-11-22T15:33:51.924+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.394 seconds
+[2023-11-22T15:34:23.837+0500] {processor.py:157} INFO - Started process (PID=12204) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:34:23.841+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:34:23.844+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:34:23.843+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:34:23.899+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:34:24.005+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:34:24.004+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:34:24.143+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:34:24.143+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T06:00:00+00:00, run_after=2023-11-21T07:00:00+00:00
+[2023-11-22T15:34:24.344+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.523 seconds
+[2023-11-22T15:34:56.257+0500] {processor.py:157} INFO - Started process (PID=12383) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:34:56.265+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:34:56.268+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:34:56.267+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:34:56.356+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:34:56.664+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:34:56.663+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:34:56.856+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:34:56.855+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T07:00:00+00:00, run_after=2023-11-21T08:00:00+00:00
+[2023-11-22T15:34:57.011+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.779 seconds
+[2023-11-22T15:35:32.850+0500] {processor.py:157} INFO - Started process (PID=12966) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:35:32.867+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:35:32.875+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:35:32.871+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:35:32.966+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:35:33.134+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:35:33.131+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:35:33.388+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:35:33.387+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T07:00:00+00:00, run_after=2023-11-21T08:00:00+00:00
+[2023-11-22T15:35:33.626+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.867 seconds
+[2023-11-22T15:40:02.001+0500] {processor.py:157} INFO - Started process (PID=13431) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:40:02.005+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:40:02.009+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:40:02.008+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:40:02.075+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:40:02.254+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:40:02.242+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:40:02.256+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:40:02.256+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:40:02.630+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:40:02.630+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:40:02.771+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.780 seconds
+[2023-11-22T15:40:32.898+0500] {processor.py:157} INFO - Started process (PID=13575) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:40:32.900+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:40:32.903+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:40:32.902+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:40:32.951+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:40:33.058+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:40:33.045+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:40:33.061+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:40:33.060+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:40:33.189+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:40:33.188+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:40:33.345+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.459 seconds
+[2023-11-22T15:41:04.164+0500] {processor.py:157} INFO - Started process (PID=13718) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:41:04.167+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:41:04.169+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:41:04.169+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:41:04.216+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:41:04.338+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:41:04.328+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:41:04.340+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:41:04.340+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:41:04.471+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:41:04.470+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:41:04.626+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.495 seconds
+[2023-11-22T15:41:34.806+0500] {processor.py:157} INFO - Started process (PID=13863) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:41:34.809+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:41:34.812+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:41:34.811+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:41:34.848+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:41:34.944+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:41:34.934+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:41:34.946+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:41:34.945+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:41:35.059+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:41:35.058+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:41:35.165+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.371 seconds
+[2023-11-22T15:42:05.431+0500] {processor.py:157} INFO - Started process (PID=14033) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:42:05.433+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:42:05.436+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:42:05.435+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:42:05.484+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:42:05.624+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:42:05.607+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:42:05.627+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:42:05.626+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:42:05.794+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:42:05.794+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:42:05.910+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.494 seconds
+[2023-11-22T15:42:36.263+0500] {processor.py:157} INFO - Started process (PID=14190) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:42:36.266+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:42:36.268+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:42:36.268+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:42:36.309+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:42:36.417+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:42:36.404+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:42:36.419+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:42:36.419+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:42:36.535+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:42:36.535+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:42:36.625+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.375 seconds
+[2023-11-22T15:43:06.703+0500] {processor.py:157} INFO - Started process (PID=14321) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:43:06.710+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:43:06.713+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:43:06.712+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:43:06.763+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:43:06.860+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:43:06.851+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:43:06.863+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:43:06.862+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:43:06.978+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:43:06.978+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:43:07.083+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.391 seconds
+[2023-11-22T15:43:37.909+0500] {processor.py:157} INFO - Started process (PID=14456) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:43:37.914+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:43:37.917+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:43:37.916+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:43:38.010+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:43:38.138+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:43:38.125+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:43:38.141+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:43:38.140+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:43:38.285+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:43:38.284+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:43:38.423+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.525 seconds
+[2023-11-22T15:44:09.115+0500] {processor.py:157} INFO - Started process (PID=14598) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:44:09.117+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:44:09.120+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:44:09.119+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:44:09.156+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:44:09.255+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:44:09.247+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:44:09.257+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:44:09.257+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:44:09.371+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:44:09.370+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:44:09.479+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.376 seconds
+[2023-11-22T15:44:40.382+0500] {processor.py:157} INFO - Started process (PID=14754) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:44:40.385+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:44:40.388+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:44:40.387+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:44:40.426+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:44:40.527+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:44:40.518+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:44:40.529+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:44:40.529+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:44:40.642+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:44:40.641+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:44:40.736+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.372 seconds
+[2023-11-22T15:45:11.131+0500] {processor.py:157} INFO - Started process (PID=14916) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:45:11.134+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:45:11.136+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:45:11.135+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:45:11.183+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:45:11.301+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:45:11.288+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:45:11.303+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:45:11.302+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:45:11.437+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:45:11.437+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:45:11.540+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.423 seconds
+[2023-11-22T15:45:41.737+0500] {processor.py:157} INFO - Started process (PID=15063) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:45:41.740+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:45:41.743+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:45:41.742+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:45:41.784+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:45:41.908+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:45:41.898+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:45:41.910+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:45:41.909+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:45:42.030+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:45:42.029+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:45:42.129+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.407 seconds
+[2023-11-22T15:46:12.420+0500] {processor.py:157} INFO - Started process (PID=15184) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:46:12.422+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:46:12.427+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:46:12.425+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:46:12.465+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:46:12.560+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:46:12.551+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:46:12.563+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:46:12.562+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:46:12.675+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:46:12.675+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:46:12.803+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.396 seconds
+[2023-11-22T15:46:43.707+0500] {processor.py:157} INFO - Started process (PID=15329) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:46:43.714+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:46:43.717+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:46:43.716+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:46:43.756+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:46:43.887+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:46:43.870+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:46:43.889+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:46:43.889+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:46:44.045+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:46:44.045+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:46:44.168+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.496 seconds
+[2023-11-22T15:47:14.732+0500] {processor.py:157} INFO - Started process (PID=15504) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:47:14.735+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:47:14.738+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:47:14.737+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:47:14.805+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:47:14.904+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:47:14.895+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:47:14.906+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:47:14.906+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:47:15.020+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:47:15.019+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:47:15.114+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.394 seconds
+[2023-11-22T15:47:45.723+0500] {processor.py:157} INFO - Started process (PID=15646) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:47:45.727+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:47:45.731+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:47:45.729+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:47:45.774+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:47:45.879+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:47:45.867+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:47:45.881+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:47:45.881+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:47:46.009+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:47:46.008+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:47:46.108+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.398 seconds
+[2023-11-22T15:48:18.329+0500] {processor.py:157} INFO - Started process (PID=15796) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:48:18.333+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:48:18.336+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:48:18.335+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:48:18.388+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:48:18.485+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:48:18.476+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:48:18.487+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:48:18.486+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:48:18.603+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:48:18.603+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:48:18.692+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.381 seconds
+[2023-11-22T15:48:49.095+0500] {processor.py:157} INFO - Started process (PID=15918) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:48:49.097+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:48:49.100+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:48:49.099+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:48:49.136+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:48:49.301+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:48:49.276+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:48:49.308+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:48:49.308+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:48:49.430+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:48:49.429+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:48:49.517+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.433 seconds
+[2023-11-22T15:49:19.576+0500] {processor.py:157} INFO - Started process (PID=16057) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:49:19.579+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:49:19.582+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:49:19.581+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:49:19.619+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:49:19.730+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:49:19.715+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:49:19.733+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:49:19.732+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:49:19.871+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:49:19.870+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:49:19.982+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.418 seconds
+[2023-11-22T15:49:50.537+0500] {processor.py:157} INFO - Started process (PID=16169) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:49:50.590+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:49:50.592+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:49:50.592+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:49:50.633+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:49:50.728+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:49:50.717+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:49:50.730+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:49:50.730+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:49:50.840+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:49:50.840+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:49:50.937+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.415 seconds
+[2023-11-22T15:50:21.365+0500] {processor.py:157} INFO - Started process (PID=16321) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:50:21.367+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:50:21.370+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:50:21.369+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:50:21.412+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:50:21.502+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:50:21.494+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:50:21.504+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:50:21.504+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:50:21.610+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:50:21.609+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:50:21.738+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.386 seconds
+[2023-11-22T15:50:51.976+0500] {processor.py:157} INFO - Started process (PID=16460) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:50:51.980+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:50:51.984+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:50:51.983+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:50:52.024+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:50:52.128+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:50:52.119+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:50:52.131+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:50:52.131+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:50:52.259+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:50:52.258+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:50:52.379+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.416 seconds
+[2023-11-22T15:51:22.802+0500] {processor.py:157} INFO - Started process (PID=16578) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:51:22.805+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:51:22.808+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:51:22.807+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:51:22.845+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:51:22.933+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:51:22.924+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:51:22.935+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:51:22.935+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:51:23.037+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:51:23.036+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:51:23.124+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.333 seconds
+[2023-11-22T15:51:53.223+0500] {processor.py:157} INFO - Started process (PID=16728) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:51:53.225+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:51:53.228+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:51:53.227+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:51:53.270+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:51:53.404+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:51:53.387+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:51:53.406+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:51:53.405+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:51:53.528+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:51:53.527+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:51:53.642+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.433 seconds
+[2023-11-22T15:52:23.990+0500] {processor.py:157} INFO - Started process (PID=16865) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:52:23.993+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:52:23.996+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:52:23.995+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:52:24.048+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:52:24.164+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:52:24.154+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:52:24.167+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:52:24.166+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:52:24.293+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:52:24.292+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:52:24.389+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.415 seconds
+[2023-11-22T15:52:54.815+0500] {processor.py:157} INFO - Started process (PID=17011) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:52:54.817+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:52:54.821+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:52:54.820+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:52:54.866+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:52:54.996+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:52:54.983+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:52:54.998+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:52:54.997+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:52:55.126+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:52:55.125+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:52:55.268+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.467 seconds
+[2023-11-22T15:53:27.240+0500] {processor.py:157} INFO - Started process (PID=17186) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:53:27.245+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:53:27.249+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:53:27.247+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:53:27.295+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:53:27.529+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:53:27.520+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:53:27.532+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:53:27.531+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:53:27.652+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:53:27.651+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:53:27.816+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.590 seconds
+[2023-11-22T15:54:00.458+0500] {processor.py:157} INFO - Started process (PID=17359) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:54:00.461+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:54:00.464+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:54:00.463+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:54:00.513+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:54:00.618+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:54:00.609+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:54:00.621+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:54:00.620+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:54:00.854+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:54:00.853+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:54:01.031+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.586 seconds
+[2023-11-22T15:54:33.813+0500] {processor.py:157} INFO - Started process (PID=17575) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:54:33.821+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:54:33.827+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:54:33.826+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:54:33.886+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:54:34.031+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:54:34.017+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:54:34.035+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:54:34.033+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:54:34.230+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:54:34.229+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:54:34.364+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.578 seconds
+[2023-11-22T15:55:05.609+0500] {processor.py:157} INFO - Started process (PID=17744) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:55:05.612+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:55:05.616+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:55:05.615+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:55:05.657+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:55:05.754+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:55:05.744+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:55:05.756+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:55:05.756+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:55:05.873+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:55:05.872+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:55:05.971+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.376 seconds
+[2023-11-22T15:55:36.186+0500] {processor.py:157} INFO - Started process (PID=18160) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:55:36.191+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:55:36.199+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:55:36.194+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:55:36.243+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:55:36.347+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:55:36.336+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:55:36.350+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:55:36.349+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:55:36.477+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:55:36.476+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:55:36.569+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.396 seconds
+[2023-11-22T15:56:06.730+0500] {processor.py:157} INFO - Started process (PID=18273) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:56:06.733+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:56:06.736+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:56:06.735+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:56:06.773+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:56:06.870+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:56:06.861+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:56:06.872+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:56:06.871+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:56:06.982+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:56:06.981+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:56:07.075+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.357 seconds
+[2023-11-22T15:56:38.812+0500] {processor.py:157} INFO - Started process (PID=18379) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:56:38.814+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:56:38.817+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:56:38.816+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:56:38.856+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:56:38.954+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:56:38.945+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:56:38.956+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:56:38.955+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:56:39.069+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:56:39.069+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:56:39.157+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.357 seconds
+[2023-11-22T15:57:09.771+0500] {processor.py:157} INFO - Started process (PID=18494) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:57:09.774+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:57:09.777+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:57:09.776+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:57:09.821+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:57:09.912+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:57:09.904+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:57:09.915+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:57:09.914+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:57:10.021+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:57:10.020+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:57:10.107+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.349 seconds
+[2023-11-22T15:57:40.251+0500] {processor.py:157} INFO - Started process (PID=18589) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:57:40.253+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:57:40.256+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:57:40.255+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:57:40.294+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:57:40.393+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:57:40.384+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:57:40.396+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:57:40.395+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:57:40.505+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:57:40.504+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:57:40.592+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.353 seconds
+[2023-11-22T15:58:11.460+0500] {processor.py:157} INFO - Started process (PID=18689) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:58:11.471+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:58:11.474+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:58:11.473+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:58:11.513+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:58:11.625+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:58:11.616+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:58:11.627+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:58:11.626+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:58:11.733+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:58:11.733+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:58:11.820+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.372 seconds
+[2023-11-22T15:58:42.241+0500] {processor.py:157} INFO - Started process (PID=18783) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:58:42.243+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:58:42.246+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:58:42.245+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:58:42.285+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:58:42.383+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:58:42.374+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:58:42.386+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:58:42.385+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:58:42.501+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:58:42.500+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:58:42.598+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.370 seconds
+[2023-11-22T15:59:13.556+0500] {processor.py:157} INFO - Started process (PID=18882) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:59:13.566+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:59:13.569+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:59:13.568+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:59:13.614+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:59:13.706+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:59:13.698+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:59:13.708+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:59:13.708+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:59:13.811+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:59:13.811+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:59:13.897+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.355 seconds
+[2023-11-22T15:59:44.709+0500] {processor.py:157} INFO - Started process (PID=18981) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:59:44.713+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T15:59:44.717+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:59:44.716+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:59:44.758+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T15:59:44.857+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:59:44.848+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T15:59:44.859+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:59:44.858+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T15:59:44.962+0500] {logging_mixin.py:154} INFO - [2023-11-22T15:59:44.961+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T15:59:45.059+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.362 seconds
+[2023-11-22T16:00:15.703+0500] {processor.py:157} INFO - Started process (PID=19086) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:00:15.705+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:00:15.708+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:00:15.707+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:00:15.750+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:00:15.854+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:00:15.843+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:00:15.857+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:00:15.856+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:00:15.969+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:00:15.969+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:00:16.056+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.365 seconds
+[2023-11-22T16:00:46.983+0500] {processor.py:157} INFO - Started process (PID=19188) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:00:46.986+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:00:46.989+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:00:46.988+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:00:47.028+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:00:47.118+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:00:47.110+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:00:47.120+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:00:47.120+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:00:47.255+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:00:47.254+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:00:47.354+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.382 seconds
+[2023-11-22T16:01:17.810+0500] {processor.py:157} INFO - Started process (PID=19288) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:01:17.813+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:01:17.815+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:01:17.814+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:01:17.852+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:01:17.941+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:01:17.932+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:01:17.944+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:01:17.943+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:01:18.050+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:01:18.049+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:01:18.132+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.333 seconds
+[2023-11-22T16:01:48.495+0500] {processor.py:157} INFO - Started process (PID=19390) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:01:48.498+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:01:48.501+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:01:48.500+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:01:48.538+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:01:48.635+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:01:48.626+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:01:48.637+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:01:48.636+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:01:48.745+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:01:48.744+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:01:48.842+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.360 seconds
+[2023-11-22T16:02:19.214+0500] {processor.py:157} INFO - Started process (PID=19511) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:02:19.217+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:02:19.220+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:02:19.219+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:02:19.263+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:02:19.355+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:02:19.347+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:02:19.358+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:02:19.357+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:02:19.462+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:02:19.461+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:02:19.550+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.348 seconds
+[2023-11-22T16:02:49.861+0500] {processor.py:157} INFO - Started process (PID=19609) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:02:49.863+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:02:49.866+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:02:49.865+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:02:49.904+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:02:50.000+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:02:49.990+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:02:50.002+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:02:50.002+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:02:50.114+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:02:50.114+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:02:50.202+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.353 seconds
+[2023-11-22T16:03:20.432+0500] {processor.py:157} INFO - Started process (PID=19707) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:03:20.435+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:03:20.438+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:03:20.437+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:03:20.474+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:03:20.562+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:03:20.554+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:03:20.564+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:03:20.564+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:03:20.669+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:03:20.668+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:03:20.753+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.334 seconds
+[2023-11-22T16:03:50.899+0500] {processor.py:157} INFO - Started process (PID=19807) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:03:50.902+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:03:50.905+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:03:50.904+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:03:50.946+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:03:51.043+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:03:51.034+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:03:51.046+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:03:51.045+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:03:51.160+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:03:51.159+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:03:51.255+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.369 seconds
+[2023-11-22T16:04:21.369+0500] {processor.py:157} INFO - Started process (PID=19959) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:04:21.384+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:04:21.386+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:04:21.385+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:04:21.425+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:04:21.518+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:04:21.509+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:04:21.521+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:04:21.520+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:04:21.632+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:04:21.631+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:04:21.721+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.365 seconds
+[2023-11-22T16:04:52.094+0500] {processor.py:157} INFO - Started process (PID=20067) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:04:52.096+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:04:52.099+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:04:52.098+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:04:52.136+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:04:52.231+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:04:52.222+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:04:52.233+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:04:52.233+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:04:52.357+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:04:52.357+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:04:52.447+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.365 seconds
+[2023-11-22T16:05:22.847+0500] {processor.py:157} INFO - Started process (PID=20174) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:05:22.852+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:05:22.855+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:05:22.854+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:05:22.894+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:05:22.989+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:05:22.981+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:05:22.992+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:05:22.991+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:05:23.092+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:05:23.092+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:05:23.178+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.342 seconds
+[2023-11-22T16:05:53.236+0500] {processor.py:157} INFO - Started process (PID=20279) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:05:53.238+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:05:53.241+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:05:53.240+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:05:53.280+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:05:53.374+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:05:53.366+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:05:53.376+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:05:53.376+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:05:53.481+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:05:53.481+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:05:53.566+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.342 seconds
+[2023-11-22T16:06:23.923+0500] {processor.py:157} INFO - Started process (PID=20601) to work on /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:06:23.928+0500] {processor.py:829} INFO - Processing file /home/makar/MLops_3/airflow/dags/competition_score.py for tasks to queue
+[2023-11-22T16:06:23.932+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:06:23.930+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:06:24.000+0500] {processor.py:839} INFO - DAG(s) dict_keys(['competition']) retrieved from /home/makar/MLops_3/airflow/dags/competition_score.py
+[2023-11-22T16:06:24.126+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:06:24.109+0500] {dagbag.py:644} ERROR - Failed to write serialized DAG: /home/makar/MLops_3/airflow/dags/competition_score.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/dagbag.py", line 633, in _serialize_dag_capturing_errors
+    dag_was_updated = SerializedDagModel.write_dag(
+  File "/usr/local/lib/python3.10/dist-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 156, in write_dag
+    new_serialized_dag = cls(dag, processor_subdir)
+  File "<string>", line 4, in __init__
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 481, in _initialize_instance
+    with util.safe_reraise():
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/orm/state.py", line 479, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/models/serialized_dag.py", line 103, in __init__
+    dag_data = SerializedDAG.to_dict(dag)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 1404, in to_dict
+    cls.validate_schema(json_dict)
+  File "/usr/local/lib/python3.10/dist-packages/airflow/serialization/serialized_objects.py", line 335, in validate_schema
+    cls._json_schema.validate(serialized_obj)
+  File "/home/makar/.local/lib/python3.10/site-packages/jsonschema/validators.py", line 310, in validate
+    raise error
+jsonschema.exceptions.ValidationError: 'False' is not of type 'boolean'
+
+Failed validating 'type' in schema['allOf'][0]['properties']['dag']['properties']['catchup']:
+    {'type': 'boolean'}
+
+On instance['dag']['catchup']:
+    'False'
+[2023-11-22T16:06:24.128+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:06:24.128+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-22T16:06:24.281+0500] {logging_mixin.py:154} INFO - [2023-11-22T16:06:24.280+0500] {dag.py:3722} INFO - Setting next_dagrun for competition to 2023-11-21T08:00:00+00:00, run_after=2023-11-21T09:00:00+00:00
+[2023-11-22T16:06:24.471+0500] {processor.py:179} INFO - Processing /home/makar/MLops_3/airflow/dags/competition_score.py took 0.566 seconds

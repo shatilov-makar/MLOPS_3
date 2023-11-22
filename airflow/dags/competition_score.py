@@ -18,7 +18,8 @@ args = {
 with DAG(
     dag_id='competition',
     default_args=args,
-    schedule_interval=None,
+    catchup='False',
+    schedule_interval="@hourly",
     tags=['competition', 'score']
 ) as dag:
     get_data = BashOperator(task_id='get_data', bash_command="python3 /home/makar/MLops_3/scripts/get_data.py", dag=dag)

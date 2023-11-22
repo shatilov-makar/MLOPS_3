@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1700650091481
+current_stage: None
+description: null
+last_updated_timestamp: 1700650091481
+name: rf_regressor
+run_id: e82c91f1e216467db46e34422df24171
+run_link: null
+source: file:///home/makar/mlruns/3/e82c91f1e216467db46e34422df24171/artifacts/rf_regressor
+status: READY
+status_message: null
+storage_location: file:///home/makar/mlruns/3/e82c91f1e216467db46e34422df24171/artifacts/rf_regressor
+user_id: null
+version: 7
