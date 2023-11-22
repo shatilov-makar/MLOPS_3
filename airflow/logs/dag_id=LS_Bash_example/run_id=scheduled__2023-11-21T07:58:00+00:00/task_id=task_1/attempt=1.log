@@ -1,0 +1,17 @@
+[2023-11-21T12:59:34.915+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: LS_Bash_example.task_1 scheduled__2023-11-21T07:58:00+00:00 [queued]>
+[2023-11-21T12:59:34.952+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: LS_Bash_example.task_1 scheduled__2023-11-21T07:58:00+00:00 [queued]>
+[2023-11-21T12:59:34.954+0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 1
+[2023-11-21T12:59:35.015+0500] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): task_1> on 2023-11-21 07:58:00+00:00
+[2023-11-21T12:59:35.062+0500] {standard_task_runner.py:57} INFO - Started process 14108 to run task
+[2023-11-21T12:59:35.128+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'LS_Bash_example', 'task_1', 'scheduled__2023-11-21T07:58:00+00:00', '--job-id', '3', '--raw', '--subdir', 'DAGS_FOLDER/d.py', '--cfg-path', '/tmp/tmp80zw56qb']
+[2023-11-21T12:59:35.163+0500] {standard_task_runner.py:85} INFO - Job 3: Subtask task_1
+[2023-11-21T12:59:35.612+0500] {task_command.py:416} INFO - Running <TaskInstance: LS_Bash_example.task_1 scheduled__2023-11-21T07:58:00+00:00 [running]> on host Acer
+[2023-11-21T12:59:36.270+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='dimon' AIRFLOW_CTX_DAG_ID='LS_Bash_example' AIRFLOW_CTX_TASK_ID='task_1' AIRFLOW_CTX_EXECUTION_DATE='2023-11-21T07:58:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-11-21T07:58:00+00:00'
+[2023-11-21T12:59:36.277+0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-11-21T12:59:36.281+0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', "echo 'Hello World'"]
+[2023-11-21T12:59:36.320+0500] {subprocess.py:86} INFO - Output:
+[2023-11-21T12:59:36.344+0500] {subprocess.py:93} INFO - Hello World
+[2023-11-21T12:59:36.345+0500] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-11-21T12:59:36.480+0500] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=LS_Bash_example, task_id=task_1, execution_date=20231121T075800, start_date=20231121T075934, end_date=20231121T075936
+[2023-11-21T12:59:36.570+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-11-21T12:59:36.663+0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

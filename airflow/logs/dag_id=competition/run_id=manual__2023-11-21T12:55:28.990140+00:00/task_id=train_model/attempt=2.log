@@ -1,0 +1,22 @@
+[2023-11-21T18:05:11.713+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: competition.train_model manual__2023-11-21T12:55:28.990140+00:00 [queued]>
+[2023-11-21T18:05:11.762+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: competition.train_model manual__2023-11-21T12:55:28.990140+00:00 [queued]>
+[2023-11-21T18:05:11.765+0500] {taskinstance.py:1361} INFO - Starting attempt 2 of 2
+[2023-11-21T18:05:11.831+0500] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): train_model> on 2023-11-21 12:55:28.990140+00:00
+[2023-11-21T18:05:11.852+0500] {standard_task_runner.py:57} INFO - Started process 28487 to run task
+[2023-11-21T18:05:11.865+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'competition', 'train_model', 'manual__2023-11-21T12:55:28.990140+00:00', '--job-id', '41', '--raw', '--subdir', 'DAGS_FOLDER/competition_score.py', '--cfg-path', '/tmp/tmp6lthp22l']
+[2023-11-21T18:05:11.871+0500] {standard_task_runner.py:85} INFO - Job 41: Subtask train_model
+[2023-11-21T18:05:12.195+0500] {task_command.py:416} INFO - Running <TaskInstance: competition.train_model manual__2023-11-21T12:55:28.990140+00:00 [running]> on host Acer
+[2023-11-21T18:05:12.815+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='makar' AIRFLOW_CTX_DAG_ID='competition' AIRFLOW_CTX_TASK_ID='train_model' AIRFLOW_CTX_EXECUTION_DATE='2023-11-21T12:55:28.990140+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-11-21T12:55:28.990140+00:00'
+[2023-11-21T18:05:12.829+0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-11-21T18:05:12.833+0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /home/makar/MLops_3/scripts/train_model.py']
+[2023-11-21T18:05:12.874+0500] {subprocess.py:86} INFO - Output:
+[2023-11-21T18:06:55.738+0500] {subprocess.py:93} INFO - /home/makar/.local/lib/python3.10/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+[2023-11-21T18:06:55.742+0500] {subprocess.py:93} INFO -   warnings.warn("Setuptools is replacing distutils.")
+[2023-11-21T18:06:57.201+0500] {subprocess.py:93} INFO - Successfully registered model 'rf_regressor'.
+[2023-11-21T18:06:57.291+0500] {subprocess.py:93} INFO - Created version '1' of model 'rf_regressor'.
+[2023-11-21T18:06:57.563+0500] {subprocess.py:93} INFO - /home/makar/MLops_3/scripts/train_model.py:28: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+[2023-11-21T18:06:57.564+0500] {subprocess.py:93} INFO -   rf_regressor.fit(X_train, y_train)
+[2023-11-21T18:08:48.691+0500] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-11-21T18:08:48.975+0500] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=competition, task_id=train_model, execution_date=20231121T125528, start_date=20231121T130511, end_date=20231121T130848
+[2023-11-21T18:08:49.157+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-11-21T18:08:49.462+0500] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

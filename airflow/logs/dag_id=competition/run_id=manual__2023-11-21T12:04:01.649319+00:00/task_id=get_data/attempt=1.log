@@ -1,0 +1,40 @@
+[2023-11-21T17:04:14.204+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: competition.get_data manual__2023-11-21T12:04:01.649319+00:00 [queued]>
+[2023-11-21T17:04:14.240+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: competition.get_data manual__2023-11-21T12:04:01.649319+00:00 [queued]>
+[2023-11-21T17:04:14.241+0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-11-21T17:04:14.323+0500] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): get_data> on 2023-11-21 12:04:01.649319+00:00
+[2023-11-21T17:04:14.338+0500] {standard_task_runner.py:57} INFO - Started process 13999 to run task
+[2023-11-21T17:04:14.348+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'competition', 'get_data', 'manual__2023-11-21T12:04:01.649319+00:00', '--job-id', '14', '--raw', '--subdir', 'DAGS_FOLDER/competition_score.py', '--cfg-path', '/tmp/tmpjuo5imtr']
+[2023-11-21T17:04:14.353+0500] {standard_task_runner.py:85} INFO - Job 14: Subtask get_data
+[2023-11-21T17:04:14.612+0500] {task_command.py:416} INFO - Running <TaskInstance: competition.get_data manual__2023-11-21T12:04:01.649319+00:00 [running]> on host Acer
+[2023-11-21T17:04:15.084+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='makar' AIRFLOW_CTX_DAG_ID='competition' AIRFLOW_CTX_TASK_ID='get_data' AIRFLOW_CTX_EXECUTION_DATE='2023-11-21T12:04:01.649319+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-11-21T12:04:01.649319+00:00'
+[2023-11-21T17:04:15.092+0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-11-21T17:04:15.094+0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /home/makar/MLops_3/scripts/get_data.py']
+[2023-11-21T17:04:15.157+0500] {subprocess.py:86} INFO - Output:
+[2023-11-21T17:04:26.968+0500] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2023-11-21T17:04:26.969+0500] {subprocess.py:93} INFO -   File "/home/makar/MLops_3/scripts/get_data.py", line 13, in <module>
+[2023-11-21T17:04:26.970+0500] {subprocess.py:93} INFO -     df_full.to_csv('datasets/data.csv')
+[2023-11-21T17:04:26.976+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+[2023-11-21T17:04:26.977+0500] {subprocess.py:93} INFO -     return func(*args, **kwargs)
+[2023-11-21T17:04:26.978+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/pandas/core/generic.py", line 3720, in to_csv
+[2023-11-21T17:04:26.980+0500] {subprocess.py:93} INFO -     return DataFrameRenderer(formatter).to_csv(
+[2023-11-21T17:04:26.981+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/pandas/util/_decorators.py", line 211, in wrapper
+[2023-11-21T17:04:26.982+0500] {subprocess.py:93} INFO -     return func(*args, **kwargs)
+[2023-11-21T17:04:26.983+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/pandas/io/formats/format.py", line 1189, in to_csv
+[2023-11-21T17:04:26.994+0500] {subprocess.py:93} INFO -     csv_formatter.save()
+[2023-11-21T17:04:26.996+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/pandas/io/formats/csvs.py", line 241, in save
+[2023-11-21T17:04:26.999+0500] {subprocess.py:93} INFO -     with get_handle(
+[2023-11-21T17:04:27.000+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/pandas/io/common.py", line 734, in get_handle
+[2023-11-21T17:04:27.007+0500] {subprocess.py:93} INFO -     check_parent_directory(str(handle))
+[2023-11-21T17:04:27.008+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/pandas/io/common.py", line 597, in check_parent_directory
+[2023-11-21T17:04:27.009+0500] {subprocess.py:93} INFO -     raise OSError(rf"Cannot save file into a non-existent directory: '{parent}'")
+[2023-11-21T17:04:27.010+0500] {subprocess.py:93} INFO - OSError: Cannot save file into a non-existent directory: 'datasets'
+[2023-11-21T17:04:27.999+0500] {subprocess.py:97} INFO - Command exited with return code 1
+[2023-11-21T17:04:28.155+0500] {taskinstance.py:1937} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/operators/bash.py", line 210, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2023-11-21T17:04:28.210+0500] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=competition, task_id=get_data, execution_date=20231121T120401, start_date=20231121T120414, end_date=20231121T120428
+[2023-11-21T17:04:28.278+0500] {standard_task_runner.py:104} ERROR - Failed to execute job 14 for task get_data (Bash command failed. The command returned a non-zero exit code 1.; 13999)
+[2023-11-21T17:04:28.333+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2023-11-21T17:04:28.459+0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

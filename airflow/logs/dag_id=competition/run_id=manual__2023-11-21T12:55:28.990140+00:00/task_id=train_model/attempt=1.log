@@ -1,0 +1,63 @@
+[2023-11-21T17:57:23.062+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: competition.train_model manual__2023-11-21T12:55:28.990140+00:00 [queued]>
+[2023-11-21T17:57:23.107+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: competition.train_model manual__2023-11-21T12:55:28.990140+00:00 [queued]>
+[2023-11-21T17:57:23.108+0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-11-21T17:57:23.177+0500] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): train_model> on 2023-11-21 12:55:28.990140+00:00
+[2023-11-21T17:57:23.199+0500] {standard_task_runner.py:57} INFO - Started process 26145 to run task
+[2023-11-21T17:57:23.210+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'competition', 'train_model', 'manual__2023-11-21T12:55:28.990140+00:00', '--job-id', '40', '--raw', '--subdir', 'DAGS_FOLDER/competition_score.py', '--cfg-path', '/tmp/tmpxmscv7n1']
+[2023-11-21T17:57:23.216+0500] {standard_task_runner.py:85} INFO - Job 40: Subtask train_model
+[2023-11-21T17:57:23.485+0500] {task_command.py:416} INFO - Running <TaskInstance: competition.train_model manual__2023-11-21T12:55:28.990140+00:00 [running]> on host Acer
+[2023-11-21T17:57:23.869+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='makar' AIRFLOW_CTX_DAG_ID='competition' AIRFLOW_CTX_TASK_ID='train_model' AIRFLOW_CTX_EXECUTION_DATE='2023-11-21T12:55:28.990140+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-11-21T12:55:28.990140+00:00'
+[2023-11-21T17:57:23.888+0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-11-21T17:57:23.892+0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /home/makar/MLops_3/scripts/train_model.py']
+[2023-11-21T17:57:23.932+0500] {subprocess.py:86} INFO - Output:
+[2023-11-21T17:59:53.084+0500] {subprocess.py:93} INFO - 2023/11/21 17:59:53 WARNING mlflow.utils.environment: Encountered an unexpected error while inferring pip requirements (model URI: /tmp/tmptke3ce4m/model/model.pkl, flavor: sklearn), fall back to return ['scikit-learn==1.2.2', 'cloudpickle==2.2.1']. Set logging level to DEBUG to see the full traceback.
+[2023-11-21T17:59:53.098+0500] {subprocess.py:93} INFO - /home/makar/.local/lib/python3.10/site-packages/_distutils_hack/__init__.py:33: UserWarning: Setuptools is replacing distutils.
+[2023-11-21T17:59:53.099+0500] {subprocess.py:93} INFO -   warnings.warn("Setuptools is replacing distutils.")
+[2023-11-21T17:59:54.010+0500] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2023-11-21T17:59:54.012+0500] {subprocess.py:93} INFO -   File "/home/makar/MLops_3/scripts/train_model.py", line 24, in <module>
+[2023-11-21T17:59:54.014+0500] {subprocess.py:93} INFO -     mlflow.sklearn.log_model(rf_regressor, artifact_path="rf_regressor", registered_model_name="rf_regressor")
+[2023-11-21T17:59:54.015+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/sklearn/__init__.py", line 411, in log_model
+[2023-11-21T17:59:54.017+0500] {subprocess.py:93} INFO -     return Model.log(
+[2023-11-21T17:59:54.019+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/models/model.py", line 630, in log
+[2023-11-21T17:59:54.020+0500] {subprocess.py:93} INFO -     mlflow.tracking._model_registry.fluent._register_model(
+[2023-11-21T17:59:54.021+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/tracking/_model_registry/fluent.py", line 90, in _register_model
+[2023-11-21T17:59:54.023+0500] {subprocess.py:93} INFO -     create_model_response = client.create_registered_model(name)
+[2023-11-21T17:59:54.025+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/tracking/client.py", line 2114, in create_registered_model
+[2023-11-21T17:59:54.026+0500] {subprocess.py:93} INFO -     return self._get_registry_client().create_registered_model(name, tags, description)
+[2023-11-21T17:59:54.027+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/tracking/client.py", line 115, in _get_registry_client
+[2023-11-21T17:59:54.027+0500] {subprocess.py:93} INFO -     registry_client = ModelRegistryClient(self._registry_uri, self.tracking_uri)
+[2023-11-21T17:59:54.028+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/tracking/_model_registry/client.py", line 36, in __init__
+[2023-11-21T17:59:54.029+0500] {subprocess.py:93} INFO -     self.store  # pylint: disable=pointless-statement
+[2023-11-21T17:59:54.030+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/tracking/_model_registry/client.py", line 40, in store
+[2023-11-21T17:59:54.031+0500] {subprocess.py:93} INFO -     return utils._get_store(self.registry_uri, self.tracking_uri)
+[2023-11-21T17:59:54.032+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/tracking/_model_registry/utils.py", line 202, in _get_store
+[2023-11-21T17:59:54.033+0500] {subprocess.py:93} INFO -     return _get_store_registry().get_store(store_uri, tracking_uri)
+[2023-11-21T17:59:54.033+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/tracking/_model_registry/registry.py", line 43, in get_store
+[2023-11-21T17:59:54.034+0500] {subprocess.py:93} INFO -     return self._get_store_with_resolved_uri(resolved_store_uri, resolved_tracking_uri)
+[2023-11-21T17:59:54.035+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/tracking/_model_registry/registry.py", line 60, in _get_store_with_resolved_uri
+[2023-11-21T17:59:54.036+0500] {subprocess.py:93} INFO -     return builder(store_uri=resolved_store_uri)
+[2023-11-21T17:59:54.037+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/tracking/_model_registry/utils.py", line 174, in _get_file_store
+[2023-11-21T17:59:54.038+0500] {subprocess.py:93} INFO -     return FileStore(store_uri)
+[2023-11-21T17:59:54.039+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/store/model_registry/file_store.py", line 127, in __init__
+[2023-11-21T17:59:54.040+0500] {subprocess.py:93} INFO -     mkdir(self.models_directory)
+[2023-11-21T17:59:54.040+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/utils/file_utils.py", line 204, in mkdir
+[2023-11-21T17:59:54.041+0500] {subprocess.py:93} INFO -     raise e
+[2023-11-21T17:59:54.042+0500] {subprocess.py:93} INFO -   File "/home/makar/.local/lib/python3.10/site-packages/mlflow/utils/file_utils.py", line 201, in mkdir
+[2023-11-21T17:59:54.043+0500] {subprocess.py:93} INFO -     os.makedirs(target)
+[2023-11-21T17:59:54.044+0500] {subprocess.py:93} INFO -   File "/usr/lib/python3.10/os.py", line 215, in makedirs
+[2023-11-21T17:59:54.045+0500] {subprocess.py:93} INFO -     makedirs(head, exist_ok=exist_ok)
+[2023-11-21T17:59:54.046+0500] {subprocess.py:93} INFO -   File "/usr/lib/python3.10/os.py", line 215, in makedirs
+[2023-11-21T17:59:54.046+0500] {subprocess.py:93} INFO -     makedirs(head, exist_ok=exist_ok)
+[2023-11-21T17:59:54.048+0500] {subprocess.py:93} INFO -   File "/usr/lib/python3.10/os.py", line 225, in makedirs
+[2023-11-21T17:59:54.048+0500] {subprocess.py:93} INFO -     mkdir(name, mode)
+[2023-11-21T17:59:54.049+0500] {subprocess.py:93} INFO - PermissionError: [Errno 13] Permission denied: '/home/MLops_3'
+[2023-11-21T17:59:55.825+0500] {subprocess.py:97} INFO - Command exited with return code 1
+[2023-11-21T17:59:55.886+0500] {taskinstance.py:1937} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/airflow/operators/bash.py", line 210, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2023-11-21T17:59:55.900+0500] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=competition, task_id=train_model, execution_date=20231121T125528, start_date=20231121T125723, end_date=20231121T125955
+[2023-11-21T17:59:55.960+0500] {standard_task_runner.py:104} ERROR - Failed to execute job 40 for task train_model (Bash command failed. The command returned a non-zero exit code 1.; 26145)
+[2023-11-21T17:59:56.008+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2023-11-21T17:59:56.114+0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check
