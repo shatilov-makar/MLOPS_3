@@ -7,11 +7,6 @@ os.environ["MLFLOW_REGISTRY_URI"] = "/home/makar/MLops_3/mlflow/"
 mlflow.set_tracking_uri("http://localhost:5000")
 mlflow.set_experiment("get_data")
 
-# df_full = pd.read_csv(
-#     'https://raw.githubusercontent.com/shatilov-makar/MLops/main/train%20(2).csv', delimiter=',')
-
-#df_full.to_csv('/home/makar/MLops_3/datasets/data.csv')
-
 with mlflow.start_run():
     df_full = pd.read_csv(
         'https://raw.githubusercontent.com/shatilov-makar/MLops/main/train%20(2).csv', delimiter=',')

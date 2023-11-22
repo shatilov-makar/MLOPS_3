@@ -16,10 +16,6 @@ X_train, y_train = train_df.drop(['num_sold'], axis=1), train_df[['num_sold']]
 
 rf_regressor = RandomForestRegressor(
     n_estimators=50, random_state=0)
-# rf_regressor.fit(X_train, y_train)
-
-# with open('models/rf_regressor.pickle', 'wb') as f:
-#     pkl.dump(rf_regressor, f)
 
 with mlflow.start_run():
     mlflow.sklearn.log_model(rf_regressor, artifact_path="rf_regressor", registered_model_name="rf_regressor")
